@@ -1,3 +1,3 @@
-![snake](https://raw.githubusercontent.com/deplives/deplives/output/github-snake.svg)
+<p align="center"><img src="https://profile-counter.glitch.me/deplives/count.svg" alt="Hello"></p>
 
-![hello](https://profile-counter.glitch.me/deplives/count.svg)
+![snake](https://raw.githubusercontent.com/deplives/deplives/output/github-snake.svg)
